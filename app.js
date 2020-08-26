@@ -1,3 +1,7 @@
 console.log("Hello World")
 
-njklgvfnjasdondfjlafdshjkfsdhkbfjkdsb
+function new_feature() {
+  console.log("The greatest feature ever featured")
+}
+
+//njklgvfnjasdondfjlafdshjkfsdhkbfjkdsb
