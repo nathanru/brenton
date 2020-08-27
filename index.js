@@ -1,5 +1,5 @@
 function main() {
-  console.log("This is the real main file")
+  console.log("This is the super real main file")
 }
 
 function add(x, y) {
