@@ -10,4 +10,3 @@ function add(x, y) {
 }
 
 //adding a comment to test
-//this line should show up in the master
