@@ -1,5 +1,4 @@
-function main() {
-  console.log("This is the super real main file")
+hjaskfjkdas;jf;kjaskfjklajfkja
 }
 
 function add(x, y) {
